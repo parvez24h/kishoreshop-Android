@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kishoreshop-android</string>
+    <string name="call_icon_des">call icon</string>
+    <string name="facebook_icon_des">facebook Icon</string>
+    <string name="brand_image_des">brand image</string>
+    <string name="product_image">product image</string>
+    <string name="order_hint_1">আমরা কিশোরগঞ্জ জেলার প্রতিটি উপজেলায় হোম ডেলিভারি দিয়ে থাকি।</string>
+    <string name="order_hint_2">মাত্র ২০০ টাকা অ্যাডভান্স করে অর্ডার কমফার্ম করতে পারবেন।</string>
+    <string name="order_hint_3">ডেলিভারি ম্যান এর কাছ থেকে প্রোডাক্ট বুঝে পেয়ে তারপর বাকি টাকা দিবেন।</string>
+    <string name="order_hint_4">কোন প্রশ্ন বা সাহায্য লাগলে কল করুনঃ 01736194336</string>
+    <string name="order_hint_5">অর্ডার করতে আপনার সঠিক তথ্য দিয়ে নিচের ফর্মটি সম্পূর্ণ পূরন করুন।</string>
+    <string name="hint_name">Name:</string>
+    <string name="hint_phone">Phone:</string>
+    <string name="hint_address">Address:</string>
+</resources>
